@@ -1,4 +1,4 @@
-# PDF-Searcher
+# PDFSearcher.py
 This program searches PDF files.
 ## What do I need?
 You need python and PyPDf2.
