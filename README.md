@@ -1,7 +1,7 @@
 # PDFSearcher.py
 This program searches PDF files.
 ## What do I need?
-You need python and PyPDf2.
+You need python and PyPDF2.
 ## How to setup?
 ### Fist you need Python 3.7 and pip.
 On Linux you can run in terminal:  
